@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleIK", "SimpleIK\Simple
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BVHSimpleViewer", "BVHSimpleViewer\BVHSimpleViewer.vcxproj", "{44800CDB-E6BD-4DE8-9A24-383605EEF627}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleBlobbyGenerator", "SimpleBlobbyGenerator\SimpleBlobbyGenerator.vcxproj", "{19CB3CB6-23BA-4B96-BB75-8DBE7FDE89E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{44800CDB-E6BD-4DE8-9A24-383605EEF627}.Release|x64.Build.0 = Release|x64
 		{44800CDB-E6BD-4DE8-9A24-383605EEF627}.Release|x86.ActiveCfg = Release|Win32
 		{44800CDB-E6BD-4DE8-9A24-383605EEF627}.Release|x86.Build.0 = Release|Win32
+		{19CB3CB6-23BA-4B96-BB75-8DBE7FDE89E4}.Debug|x64.ActiveCfg = Debug|x64
+		{19CB3CB6-23BA-4B96-BB75-8DBE7FDE89E4}.Debug|x64.Build.0 = Debug|x64
+		{19CB3CB6-23BA-4B96-BB75-8DBE7FDE89E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{19CB3CB6-23BA-4B96-BB75-8DBE7FDE89E4}.Debug|x86.Build.0 = Debug|Win32
+		{19CB3CB6-23BA-4B96-BB75-8DBE7FDE89E4}.Release|x64.ActiveCfg = Release|x64
+		{19CB3CB6-23BA-4B96-BB75-8DBE7FDE89E4}.Release|x64.Build.0 = Release|x64
+		{19CB3CB6-23BA-4B96-BB75-8DBE7FDE89E4}.Release|x86.ActiveCfg = Release|Win32
+		{19CB3CB6-23BA-4B96-BB75-8DBE7FDE89E4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
